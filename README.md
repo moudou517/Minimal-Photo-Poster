@@ -26,7 +26,7 @@
 
 | 横版布局 (2x3 几何切线对齐) | 竖版布局 (2x3 空间感知矩阵) |
 | :--- | :--- |
-| ![Landscape Demo](samples/Poster2.jpg) | ![Portrait Demo](samples/Poster1.jpg) |
+| ![Landscape Demo](samples/Poster2.jpg) | ![Portrait Demo](samples/Poster6.jpg) |
 
 > *样片说明：以上展示了针对 Sony A7C2 拍摄的城市景观（东京、大阪）进行的排版优化[cite: 4]。*
 
